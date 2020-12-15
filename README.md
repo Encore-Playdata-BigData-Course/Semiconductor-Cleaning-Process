@@ -211,7 +211,7 @@ RunningStartView.java
 ```
 * query build : 해당 table에 해당하는 select sql query문을 작성합니다.<br>
 * rows to columns : oracledb node로부터 return된 payload는 데이터 set의 row로 이루어진 array이므로 이를 column으로 이루어진 array로 변환합니다.<br>
-* col* : 해단 순서의 column이 존재한다면 그 array의 값들을 column의 format으로 변환합니다.
+* col* : 해당 column이 존재한다면 그 array의 값들을 column의 format으로 변환합니다.
 ## Example
 * process1
 ![process1](https://i.imgur.com/KJBVcWT.jpg)
