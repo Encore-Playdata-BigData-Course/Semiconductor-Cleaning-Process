@@ -97,7 +97,6 @@ Node-RED<br>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td></td>
 	</tr>
 </table>
 
@@ -174,7 +173,6 @@ Node-RED<br>
 	</tr>
 	<tr>
 	    <td>...</td>
-			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
