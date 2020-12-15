@@ -31,7 +31,7 @@ OracleDB<br>
 Node-RED<br>
 ## Oracle DB
 
--Process1
+* Process1
 <table border="1">
 	<th>WaferId</th>
 	<th>Clean1</th>
@@ -68,7 +68,7 @@ Node-RED<br>
 	</tr>
 </table>
 
--Process2
+* Process2
 <table border="1">
 	<th>WaferId</th>
 	<th>Clean3</th>
@@ -101,7 +101,7 @@ Node-RED<br>
 </table>
 
 ## Java Tree
--MVC Pattern<br>
+* MVC Pattern<br>
 ### Controller
 ProcessController.java
 ### Exception
