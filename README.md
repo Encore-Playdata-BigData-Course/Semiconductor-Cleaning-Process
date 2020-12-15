@@ -100,6 +100,86 @@ Node-RED<br>
 			<td></td>
 	</tr>
 </table>
+
+* Totalprocess
+<table border="1">
+	<th>WaferId</th>
+	<th>Clean1</th>
+	<th>Clean2</th>
+	<th>Rinse1</th>
+	<th>Clean3</th>
+	<th>Rinse2</th>
+	<th>Time</th>
+	<tr>
+	    <td>1</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+	<tr>
+	    <td>2</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+  <tr>
+	    <td>3</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+	<tr>
+	    <td>...</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+</table>
+
+* UI
+<table border="1">
+	<th>WaferId</th>
+	<th>Result</th>
+	<th>ErrPoint</th>
+	<th>Time</th>
+	<tr>
+	    <td>1</td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+	<tr>
+	    <td>2</td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+  <tr>
+	    <td>3</td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+	<tr>
+	    <td>...</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+	</tr>
+</table>
 ## Java Tree
 * MVC Pattern<br>
 ### Controller
