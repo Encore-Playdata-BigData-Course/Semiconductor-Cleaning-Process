@@ -31,7 +31,7 @@ OracleDB<br>
 Node-RED<br>
 ## Oracle DB
 
-*Process1
+-Process1
 <table border="1">
 	<th>WaferId</th>
 	<th>Clean1</th>
@@ -68,7 +68,7 @@ Node-RED<br>
 	</tr>
 </table>
 
-*Process2
+-Process2
 <table border="1">
 	<th>WaferId</th>
 	<th>Clean3</th>
@@ -99,24 +99,20 @@ Node-RED<br>
 			<td></td>
 	</tr>
 </table>
-## Java Tree
-*MVC Pattern<br>
 
+## Java Tree
+-MVC Pattern<br>
 ### Controller
 ProcessController.java
-
 ### Exception
 NotExistException.java
-
 ### Model
 Process1DAO.java<br>
 Process2DAO.java<br>
 TotalprocessDAO.java<br>
 UiDAO.java
-
 ### Model.util
 DBUtil.java
-
 ### Model.dto
 Process1DTO.java<br>
 Process2DTO.java<br>
