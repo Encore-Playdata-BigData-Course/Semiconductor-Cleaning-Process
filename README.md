@@ -22,7 +22,7 @@
     </table>
 각각의 약품을 통해 불순물을 제거한 후 다음 과정을 위해 말려주는 Rinse 과정을 거치게 됩니다.
 ### purpose
-불순물 제거 및 건조 과정에서 중요한 parameter로써 여길 수 있는 것은 각 과정 진행 시간 및 온도, 습도 등이 있습니다. 이번 프로젝트에서는 이 중 시간에 집중하여 적정 공정 시간을 13분 이상 20분 미만으로 가정하여 기준에 미달한 wafer는 불량품, 기준에 통과한 wafer는 정상, 아직 공정이 시작하지 않은 wafer는 실행전으로 표시되는 Totalprocess라는 table 및 각 wafer 별 현재 진행 상태 및 불량 발생 여부를 판단할 수 있는 UI table을 통해 Node-RED Dashboard로 표현하는 것을 목표로 했습니다.<br>
+불순물 제거 및 건조 과정에서 중요한 parameter로써 여길 수 있는 것은 각 과정 진행 시간 및 온도, 습도 등이 있습니다. 이번 프로젝트에서는 이 중 시간에 집중하여 적정 공정 시간을 13분 이상 20분 미만으로 가정하여 기준에 미달한 wafer는 불량품, 기준에 통과한 wafer는 정상, 아직 공정이 시작하지 않은 wafer는 실행전으로 표시되는 Totalprocess라는 table 및 각 wafer 별 현재 진행 상태 및 불량 발생 여부를 판단할 수 있는 UI table을 통해 Node-RED Dashboard로 표현하는 것을 목표로 했습니다.
 ### Programming Tools
 Java<br>
 OracleDB<br>
