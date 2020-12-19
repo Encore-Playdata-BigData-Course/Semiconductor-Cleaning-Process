@@ -11,3 +11,4 @@
 *.txt
 *.jar
 .project
+/target/
